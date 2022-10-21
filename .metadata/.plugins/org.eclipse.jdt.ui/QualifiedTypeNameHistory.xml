@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Person"/>
+    <fullyQualifiedTypeName name="Costumer"/>
+    <fullyQualifiedTypeName name="Employee"/>
+    <fullyQualifiedTypeName name="PersonManager"/>
+    <fullyQualifiedTypeName name="EmployeeManager"/>
+    <fullyQualifiedTypeName name="KrediUI"/>
+    <fullyQualifiedTypeName name="AskerKrediManager"/>
+    <fullyQualifiedTypeName name="FileLogger"/>
+    <fullyQualifiedTypeName name="EmailLogger"/>
+    <fullyQualifiedTypeName name="ConsoleLogger"/>
+    <fullyQualifiedTypeName name="BaseLogger"/>
+    <fullyQualifiedTypeName name="DatabaseLogger"/>
+    <fullyQualifiedTypeName name="TarimKrediManager"/>
+    <fullyQualifiedTypeName name="OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="BaseKrediManager"/>
+    <fullyQualifiedTypeName name="OgrencıKrediManager"/>
+    <fullyQualifiedTypeName name="GameCalculator"/>
+    <fullyQualifiedTypeName name="WomanGameCalculator"/>
+    <fullyQualifiedTypeName name="CostumerManager"/>
+    <fullyQualifiedTypeName name="SqlServerDatabaseManager"/>
+    <fullyQualifiedTypeName name="BaseDatabaseManager"/>
+    <fullyQualifiedTypeName name="ICostumerDal"/>
+    <fullyQualifiedTypeName name="OracleCostumerDal"/>
+</qualifiedTypeNameHistroy>

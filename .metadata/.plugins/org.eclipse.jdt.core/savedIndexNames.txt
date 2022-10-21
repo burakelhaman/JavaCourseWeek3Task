@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\JavaCourseWeek3Task\.metadata\.plugins\org.eclipse.jdt.core
+950153081.index
+1865797976.index
+2579101161.index
+2189953878.index
+4122157038.index
+536210559.index
+1454112807.index
+987290143.index

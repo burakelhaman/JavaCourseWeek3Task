@@ -1,0 +1,13 @@
+
+public abstract class GameCalculator {
+	//Abstract bir class ta illa bir abstrack olmak zorunda değil
+	// Her alt sınıf kendine has bir hesapla override etmek zorunda
+	public abstract void hesapla();
+	
+	public final void gameOver() {
+		System.out.println("Oyun Bitti");
+	}
+
+
+
+}

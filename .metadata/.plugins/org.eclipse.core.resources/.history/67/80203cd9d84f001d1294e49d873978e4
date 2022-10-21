@@ -1,0 +1,12 @@
+
+public abstract class GameCalculator {
+	// Her sınıf kendine has bir hesapla override etmek zorunda
+	public abstract void hesapla();
+	
+	public final void gameOver() {
+		System.out.println("Oyun Bitti");
+	}
+
+
+
+}

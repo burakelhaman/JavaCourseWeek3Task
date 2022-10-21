@@ -1,0 +1,7 @@
+
+public class BaseKrediManager {
+	//Override edilmesini istemiyorsak final kullanırız
+	public final double hesapla(double tutar) {
+		return tutar * 1.18;
+	}
+}

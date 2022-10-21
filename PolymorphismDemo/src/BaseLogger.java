@@ -1,0 +1,11 @@
+
+public class BaseLogger {
+
+	// Ana class'ın içindeki nesne ve metotlara alt sınıflar da ulaşabilir, ancak
+	// alt sınıfın nesne ve metotlarına sadece alt sınıf
+
+	public void log(String message) {
+		System.out.println("Default logger : " + message);
+	}
+
+}
