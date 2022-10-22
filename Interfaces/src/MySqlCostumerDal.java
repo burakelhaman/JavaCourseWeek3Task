@@ -4,7 +4,7 @@ public class MySqlCostumerDal implements ICostumerDal{
 
 	@Override
 	public void add() {
-		System.out.println("My sql eklendi");
+		System.out.println("My sql veritabanına eklendi");
 		
 	}
 

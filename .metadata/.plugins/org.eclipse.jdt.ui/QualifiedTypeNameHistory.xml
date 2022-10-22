@@ -18,9 +18,19 @@
     <fullyQualifiedTypeName name="OgrencıKrediManager"/>
     <fullyQualifiedTypeName name="GameCalculator"/>
     <fullyQualifiedTypeName name="WomanGameCalculator"/>
-    <fullyQualifiedTypeName name="CostumerManager"/>
     <fullyQualifiedTypeName name="SqlServerDatabaseManager"/>
     <fullyQualifiedTypeName name="BaseDatabaseManager"/>
+    <fullyQualifiedTypeName name="CostumerManager"/>
     <fullyQualifiedTypeName name="ICostumerDal"/>
+    <fullyQualifiedTypeName name="MySqlCostumerDal"/>
     <fullyQualifiedTypeName name="OracleCostumerDal"/>
+    <fullyQualifiedTypeName name="IEatable"/>
+    <fullyQualifiedTypeName name="IPayable"/>
+    <fullyQualifiedTypeName name="IWorkable"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="ProductManager"/>
+    <fullyQualifiedTypeName name="Product"/>
+    <fullyQualifiedTypeName name="ProductValidator"/>
+    <fullyQualifiedTypeName name="DatabaseHelper"/>
+    <fullyQualifiedTypeName name="DatabaseHelper.Connection"/>
 </qualifiedTypeNameHistroy>
