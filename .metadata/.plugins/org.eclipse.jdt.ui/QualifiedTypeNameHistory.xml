@@ -33,4 +33,19 @@
     <fullyQualifiedTypeName name="ProductValidator"/>
     <fullyQualifiedTypeName name="DatabaseHelper"/>
     <fullyQualifiedTypeName name="DatabaseHelper.Connection"/>
+    <fullyQualifiedTypeName name="oop.entities.KodlamaIoEntities"/>
+    <fullyQualifiedTypeName name="oop.dataAccess.ICourseDao"/>
+    <fullyQualifiedTypeName name="oop.entities.Educator"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="oop.entities.Category"/>
+    <fullyQualifiedTypeName name="oop.bussiness.CourseManager"/>
+    <fullyQualifiedTypeName name="oop.dataAccess.JdbcCourseDao"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="oop.entities.Course"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="oop.core.logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="oop.core.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="oop.core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="oop.core.logging.Logger"/>
 </qualifiedTypeNameHistroy>
